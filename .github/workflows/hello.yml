@@ -16,7 +16,7 @@ jobs:
       uses: actions/checkout@v4
     
     - name: execultando primeiro comando 
-      run: echo Amo DEVOPS:)
+      run: echo" Amo DEVOPS:)"
     
     - name: EXECULTANDO dois ou mais comandos
       run: |
